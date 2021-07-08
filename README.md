@@ -17,17 +17,17 @@
 http://ncmmsc2021.org/competition.html
 
 ## 竞赛组委会
-朱祖德（江苏师范大学语言科学与艺术学院）： zhuzude@163.com
-张卫强（清华大学语音与音频技术实验室）：wqzhang@tsinghua.edu.cn
-马勇（江苏师范大学语言科学与艺术学院）：may@jsnu.edu.cn
-金赟（江苏师范大学物理与电子工程学院）：jiny@jsnu.edu.cn
-郝玉峰（海天瑞声）：haoyufeng@speechocean.com
+- 朱祖德（江苏师范大学语言科学与艺术学院）： zhuzude@163.com
+- 张卫强（清华大学语音与音频技术实验室）：wqzhang@tsinghua.edu.cn
+- 马勇（江苏师范大学语言科学与艺术学院）：may@jsnu.edu.cn
+- 金赟（江苏师范大学物理与电子工程学院）：jiny@jsnu.edu.cn
+- 郝玉峰（海天瑞声）：haoyufeng@speechocean.com
 
 ## 基线系统开发小组
 
-黄新林（江苏师范大学语言科学与艺术学院）：1569897613@qq.com
-俞佳佳（江苏师范大学语言科学与艺术学院）：1137218386@qq.com
-顾煜（江苏师范大学物理与电子工程学院）：guyuluck666@163.com
-陈旭初（清华大学语音与音频技术实验室）：xuchuchan@163.com
-张晓辉（清华大学语音与音频技术实验室）：cecilehui@163.com
-郭敏（清华大学语音与音频技术实验室）：gm123@tsinghua.edu.cn
+- 黄新林（江苏师范大学语言科学与艺术学院）：1569897613@qq.com
+- 俞佳佳（江苏师范大学语言科学与艺术学院）：1137218386@qq.com
+- 顾煜（江苏师范大学物理与电子工程学院）：guyuluck666@163.com
+- 陈旭初（清华大学语音与音频技术实验室）：xuchuchan@163.com
+- 张晓辉（清华大学语音与音频技术实验室）：cecilehui@163.com
+- 郭敏（清华大学语音与音频技术实验室）：gm123@tsinghua.edu.cn
