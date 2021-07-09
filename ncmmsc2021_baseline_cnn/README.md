@@ -4,7 +4,7 @@
 
   ## 系统描述
 
-  基线系统主要包括2个核心脚本:
+  本基线系统基于CNN，主要包括2个核心脚本:
 
   - ```
     train_ad.py
@@ -25,7 +25,7 @@
 
   ### 1. 下载基线系统
 
-  可以从GitHub下载本基线系统，http://github.com/ss.git。
+  可以从GitHub下载本基线系统，[AD2021/ncmmsc2021_baseline_cnn at main · THUsatlab/AD2021 (github.com)](https://github.com/THUsatlab/AD2021/tree/main/ncmmsc2021_baseline_cnn)。
 
   ### 2. 下载数据集
 
@@ -35,7 +35,7 @@
 
   获取基线系统和数据集后，解压。基线系统和数据集的文件目录结构如下：
 
-  - /NCMMSC2021_baseline_cnn（**根据不同的基线进行修改**）
+  - /ncmmsc2021_baseline_cnn
 
     - /train_ad.py
     - /test_ad.py
@@ -64,7 +64,7 @@
           - /MCI_F_031912_001.wav
           - /MCI_M_252308_002.wav
 
-    - /testdata (**约X月X日发布测试数据，数据的文件名可能需要修改**)
+    - /testdata (**后续发布测试数据**)
 
       - /F_030809_001.wav
       - /F_050005_001.wav
@@ -130,7 +130,7 @@
 
   ## 依赖库
   
-  我们在 Ubuntu 16.04 LTS and 18.04 LTS 系统平台上开发的源码。主要依赖的软件包如下,详细见requirements.txt：
+  我们在 Ubuntu 16.04 LTS 和 18.04 LTS 系统平台上开发的源码。主要依赖的软件包如下,详细见requirements.txt：
   
   ### Software packages
   
