@@ -7,7 +7,7 @@
 
 import pandas as pd
 import os
-filepath=r'/home/gy/DATA/opensmile_train'
+filepath=r'./opensmile_train'
 
 for fea in os.listdir(filepath):
 	fn=os.path.join(filepath,fea)
@@ -32,10 +32,10 @@ for fea in os.listdir(filepath):
 file_list=os.listdir(filepath)
 df = pd.read_csv(os.path.join(filepath,file_list[0]))
 #将读取的第一个CSV文件写入合并后的文件保存
-df.to_csv(r'/home/gy/DATA/opensmile_train/train.csv',index=False)
+df.to_csv(r'./opensmile_train/train.csv',index=False)
  
 #循环遍历列表中各个CSV文件名，并追加到合并后的文件
 for i in range(1,len(file_list)):
     df = pd.read_csv(os.path.join(filepath,file_list[i]))
-    df.to_csv(r'/home/gy/DATA/opensmile_train/train.csv',index=False, header=False, mode='a+')
+    df.to_csv(r'./opensmile_train/train.csv',index=False, header=False, mode='a+')
 

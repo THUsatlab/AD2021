@@ -7,7 +7,7 @@
 
 import pandas as pd
 import os
-filepath=r'/home/gy/DATA/opensmile_test'
+filepath=r'./opensmile_test'
 fea=r'test.csv'
 
 fn=os.path.join(filepath,fea)

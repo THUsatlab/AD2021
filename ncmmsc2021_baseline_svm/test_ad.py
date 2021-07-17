@@ -51,10 +51,10 @@ def change_csv_to_txt(path_csv,path_txt):
 if __name__ == "__main__":
 
     # 初始化各个路径
-    train_dataset_path='/home/yjj/ME-AD-DATA/ncmmsc2021_baseline_svm/feature/train_1582.csv'
-    test_dataset_path='/home/yjj/ME-AD-DATA/ncmmsc2021_baseline_svm/feature/test_1582.csv'
-    result_directory_csv='/home/yjj/ME-AD-DATA/ncmmsc2021_baseline_svm/result/result.csv'
-    result_directory_txt='/home/yjj/ME-AD-DATA/ncmmsc2021_baseline_svm/result/result.txt'
+    train_dataset_path='./feature/train_1582.csv'
+    test_dataset_path='./feature/test_1582.csv'
+    result_directory_csv='./result/result.csv'
+    result_directory_txt='./result/result.txt'
     X_train,Y_train = load_train_data(train_dataset_path)
     X_test,name_test=load_test_data(test_dataset_path)
     

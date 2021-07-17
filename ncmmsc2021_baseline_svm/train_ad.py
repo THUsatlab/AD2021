@@ -68,7 +68,7 @@ def cross(X,Y):
 if __name__ == "__main__":
 
     # 初始化各个路径
-    train_dataset_path='/home/yjj/ME-AD-DATA/ncmmsc2021_baseline_svm/feature/train_1582.csv'
+    train_dataset_path='./feature/train_1582.csv'
     X_train,Y_train = load_train_data(train_dataset_path)
     #把训练数据归一化
     X_train = StandardScaler().fit_transform(X_train)
