@@ -21,6 +21,7 @@ http://ncmmsc2021.org/competition.html
 - 张卫强（清华大学语音与音频技术实验室）：wqzhang@tsinghua.edu.cn
 - 马勇（江苏师范大学语言科学与艺术学院）：may@jsnu.edu.cn
 - 金赟（江苏师范大学物理与电子工程学院）：jiny@jsnu.edu.cn
+- 酆格斐（江苏师范大学语言科学与艺术学院）：fspeed@jsnu.edu.cn
 - 郝玉峰（海天瑞声）：haoyufeng@speechocean.com
 
 ## 基线系统开发小组
