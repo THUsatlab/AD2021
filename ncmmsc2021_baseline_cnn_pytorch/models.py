@@ -81,7 +81,7 @@ class ConvNet2D(nn.Module):
         #print(out)
         return out
 
-# 2D convolutional neural network
+# 1D convolutional neural network
 class ConvNet1D(nn.Module):
     def __init__(self, input_shape, nb_filters, dense_units, output_shape, 
                 dropout=0.3):
