@@ -37,7 +37,7 @@ def check_size(dataset_path, compute_spec=False, compute_melspec=False,
         
     for dirpath, _, filenames in os.walk(dataset_path):
 
-        if dirpath is dataset_path:
+        if dirpath is not dataset_path:
 
             for fn in filenames:
                 print('Check:  ',fn)
@@ -100,7 +100,7 @@ def create_dataset(dataset_path, melspecs_folder=None, specs_folder=None, mfccs_
 
     for dirpath, _, filenames in os.walk(dataset_path):
 
-        if dirpath is dataset_path:
+        if dirpath is  not dataset_path:
 
             for fn in filenames:
                 
