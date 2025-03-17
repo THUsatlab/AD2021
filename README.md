@@ -13,9 +13,6 @@
 | 任务一   | AD/MCI/正常三分类 | 被试对图片进行描述时采集的长语音，60秒         |
 | 任务二   | AD/MCI/正常三分类         | 短语音，6秒          |
 
-## 竞赛官网
-http://ncmmsc2021.org/competition.html
-
 ## 竞赛组委会
 - 朱祖德（江苏师范大学语言科学与艺术学院）： zhuzude@163.com
 - 张卫强（清华大学语音与音频技术实验室）：wqzhang@tsinghua.edu.cn
