@@ -29,3 +29,29 @@
 - 陈旭初（清华大学语音与音频技术实验室）：xuchuchan@163.com
 - 张晓辉（清华大学语音与音频技术实验室）：cecilehui@163.com
 - 郭敏（清华大学语音与音频技术实验室）：gm123@tsinghua.edu.cn
+
+## 论文引用
+
+````{verbatim}
+@article{ChenXC2023,
+  author  = {陈旭初 and 张卫强 and 马勇},
+  journal = {电子学报},
+  title   = {基于原始波形的端到端阿尔茨海默症检测方法},
+  year    = {2023},
+  doi     = {10.12263/DZXB.20220162},
+  number   = {12},
+  pages   = {3582-3590},
+  volume  = {51},
+}
+
+@article{ChenXC2023,
+  author  = {Xu-Chu Chen and Wei-Qiang Zhang and Yong Ma},
+  journal = {Acta Electronica Sinica},
+  title   = {Raw waveform-based end-to-end {A}lzheimer's disease detection method},
+  year    = {2023},
+  doi     = {10.12263/DZXB.20220162},
+  number   = {12},
+  pages   = {3582-3590},
+  volume  = {51},
+}
+````
